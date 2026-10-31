@@ -3,3 +3,6 @@ data/body.csv
 
 #mac junk
 .DS_Store
+
+.venv
+__pycache__/

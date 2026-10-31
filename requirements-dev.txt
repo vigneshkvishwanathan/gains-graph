@@ -1,0 +1,2 @@
+#testing tool - finds and runs the tests
+pytest==9.2.0
