@@ -1,0 +1,5 @@
+#private body stats
+data/body.csv
+
+#mac junk
+.DS_Store
