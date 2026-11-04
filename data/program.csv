@@ -1,0 +1,36 @@
+day,position,lift,sets,rep_min,rep_max
+Lower 1,1,leg press,1,6,8
+Lower 1,2,pendulum squat,2,6,10
+Lower 1,3,seated hamstring curl,2,8,12
+Lower 1,4,iso quad extension,1,8,12
+Lower 1,5,glute hip hinge,2,6,10
+Lower 1,6,standing calf raise,2,8,12
+Lower 1,7,machine crunch,2,8,12
+Lower 1,8,forearm extension,1,8,12
+Lower 1,9,forearm curl,1,8,12
+Upper 1,1,incline smith machine bench press,2,6,8
+Upper 1,2,seated chest supported row,2,6,8
+Upper 1,3,pec deck fly,2,8,12
+Upper 1,4,neutral grip lat pulldown,1,8,12
+Upper 1,5,wide grip lat pulldown,1,8,12
+Upper 1,6,cable lateral raise,2,8,12
+Upper 1,7,cable tricep extension,2,8,12
+Upper 1,8,nautilus preacher curl,2,8,12
+Upper 1,9,overhead tricep extension,2,8,12
+Lower 2,1,barbell rdl,2,6,8
+Lower 2,2,hack squat,2,6,8
+Lower 2,3,lying hamstring curl,2,8,12
+Lower 2,4,quad extension,1,8,12
+Lower 2,5,adductor,2,8,12
+Lower 2,6,seated calf raise,2,8,12
+Lower 2,7,cable crunch,2,8,12
+Lower 2,8,forearm extension,1,8,12
+Lower 2,9,forearm curl,1,8,12
+Upper 2,1,smith machine overhead press,2,6,8
+Upper 2,2,t bar row,2,6,8
+Upper 2,3,seated chest press,2,6,8
+Upper 2,4,iso lat row,2,6,8
+Upper 2,5,cable rear delt fly,2,8,12
+Upper 2,6,gymleco preacher curl,2,8,12
+Upper 2,7,tricep pushdown,2,8,12
+Upper 2,8,cable reverse curl,2,8,12
